@@ -1,0 +1,7 @@
+C:\Users\Payto\OneDrive\Documents\GitHub\.net--number-guesser\number-guesser\bin\Debug\number-guesser.exe.config
+C:\Users\Payto\OneDrive\Documents\GitHub\.net--number-guesser\number-guesser\bin\Debug\number-guesser.exe
+C:\Users\Payto\OneDrive\Documents\GitHub\.net--number-guesser\number-guesser\bin\Debug\number-guesser.pdb
+C:\Users\Payto\OneDrive\Documents\GitHub\.net--number-guesser\number-guesser\obj\Debug\number-guesser.csproj.AssemblyReference.cache
+C:\Users\Payto\OneDrive\Documents\GitHub\.net--number-guesser\number-guesser\obj\Debug\number-guesser.csproj.CoreCompileInputs.cache
+C:\Users\Payto\OneDrive\Documents\GitHub\.net--number-guesser\number-guesser\obj\Debug\number-guesser.exe
+C:\Users\Payto\OneDrive\Documents\GitHub\.net--number-guesser\number-guesser\obj\Debug\number-guesser.pdb
